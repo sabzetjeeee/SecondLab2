@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SecondLab</string>
+    <string name="NumberOfNotifications">6</string>
+    <string name="tvInfo4">YW имеют непрочитанные сообщения</string>
+    <string name="tvInfo5">Myte имеют новые уведомления</string>
+    <string name="tvInfo6">Yaw have без новых уведомлений</string>
+    <string name="tvHeader2">Health</string>
+    <string name="tvInfo1">Центр сообщений</string>
+    <string name="tvInfo2">Работоспособность службы</string>
+    <string name="tvInfo3">Оповещений о выставлении счета</string>
+    <string name="tvHeader">Центр администрирования Microsoft 365</string>
+    <string name="NumberOfNotifications2">3</string>
+    <string name="tvHeader3">Quick Links</string>
+    <string name="tvCard1">Users</string>
+    <string name="tvLink3">Группы</string>
+    <string name="tvLink2">Settings</string>
+    <string name="tvLink4">Theme</string>
+    <string name="tvLink5">Выставление счетов</string>
+    <string name="tvLink6">Поддержка</string>
+    <string name="tvSearch">Поиск</string>
+</resources>
